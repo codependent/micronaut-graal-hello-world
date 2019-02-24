@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.graal.hello.world
+---
+testFramework: spek
+sourceLanguage: kotlin

@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: micronaut-graal-hello-world
+jackson:
+    module-scan: false
